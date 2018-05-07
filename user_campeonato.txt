@@ -1,0 +1,2 @@
+campeonato: primer campeonato mundial del mundo
+user nombre: Administrador, apellido: maestro, DNI: 11111111
